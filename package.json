@@ -1,0 +1,17 @@
+{
+  "name": "diagrams-svg",
+  "version": "1.0.0",
+  "description": "SVG versions of Red Hat Diagrams",
+  "scripts": {
+    "gulp": "gulp",
+    "start": "gulp",
+    "build": "gulp",
+    "clean": "rm -rf node_modules"
+  },
+  "author": "wesruv",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-replace": "^1.0.0",
+    "gulp-svgo": "^2.2.1"
+  }
+}
