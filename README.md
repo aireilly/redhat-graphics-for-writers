@@ -31,3 +31,11 @@ Run this command at any time to optimize all of the SVG files in the `source/` f
 ```cmd
 npm run build
 ```
+
+### TODO
+
+inkscape settings!
+
+1. Set SVG 1.1 compatible
+2. Set 1px grid in prefs, and snap to grid for all objects
+3. PNG output prefs: DPI 96, Best compression, anitalias 3, RGBA 8
