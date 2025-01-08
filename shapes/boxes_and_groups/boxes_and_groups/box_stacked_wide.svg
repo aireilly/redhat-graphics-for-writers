@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="168.49995"
+   height="60.500088"
+   viewBox="0 0 44.582279 16.007315"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-5.2542509,-23.536897)">
+    <polyline
+       class="cls-44"
+       points="1178 1075.07 1178 1125.07 1020 1125.07"
+       id="polyline580"
+       style="fill:none;stroke:#707070;stroke-miterlimit:10"
+       transform="matrix(0.26458333,0,0,0.26458333,-261.97492,-258.26285)" />
+    <polyline
+       class="cls-44"
+       points="1173 1070.07 1173 1120.07 1015 1120.07"
+       id="polyline581"
+       style="fill:none;stroke:#707070;stroke-miterlimit:10"
+       transform="matrix(0.26458333,0,0,0.26458333,-261.97492,-258.26285)" />
+    <rect
+       class="cls-171"
+       x="5.254251"
+       y="23.536896"
+       width="41.804165"
+       height="13.229166"
+       id="rect727-9"
+       style="fill:#e0e0e0;stroke-width:0.264583" />
+    <text
+       class="cls-109"
+       id="text727-4"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.91042px;font-family:RedHatTextRoman-Medium, 'Red Hat Text';-inkscape-font-specification:'RedHatTextRoman-Medium, Red Hat Text, Medium ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.264583"
+       x="19.964417"
+       y="31.209417"><tspan
+         id="tspan2"
+         x="19.964417"
+         y="31.209417">Box label</tspan></text>
+  </g>
+</svg>

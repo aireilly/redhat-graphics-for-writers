@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158"
+   height="50"
+   viewBox="0 0 41.804166 13.229167"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-5.254251,-7.6167791)">
+    <rect
+       class="cls-171"
+       x="5.254251"
+       y="7.6167789"
+       width="41.804165"
+       height="13.229166"
+       id="rect727"
+       style="fill:#e0e0e0;stroke-width:0.264583" />
+    <text
+       class="cls-109"
+       id="text727"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.91042px;font-family:RedHatTextRoman-Medium, 'Red Hat Text';-inkscape-font-specification:'RedHatTextRoman-Medium, Red Hat Text, Medium ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.264583"
+       x="19.964418"
+       y="15.289302"><tspan
+         id="tspan1"
+         x="19.964418"
+         y="15.289302">Box label</tspan></text>
+  </g>
+</svg>

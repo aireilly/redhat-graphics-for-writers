@@ -5,9 +5,9 @@
    data-name="artwork"
    version="1.1"
    id="svg1"
-   sodipodi:docname="openshift-bug-fix-backporting-upgrade-graph.svg"
+   sodipodi:docname="openshift-bug-fix-backporting-update-graph.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   inkscape:export-filename="../for-web/openshift-bug-fix-backporting-upgrade-graph.png"
+   inkscape:export-filename="../for-web/openshift-bug-fix-backporting-update-graph.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="343.49998"
-     inkscape:cy="149.49999"
+     inkscape:zoom="4.0000004"
+     inkscape:cx="308.24997"
+     inkscape:cy="71.874993"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
      inkscape:window-x="0"
@@ -563,13 +563,13 @@
        font-size="12.5539px"
        font-weight="500"
        id="text108"
-       x="592.09979"
+       x="599.21619"
        y="504.34656"
        style="font-weight:500;font-size:13.1979px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.999992"><tspan
          id="tspan64"
-         x="592.09979"
+         x="599.21619"
          y="504.34656"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.1979px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999992">Upgrades not allowed</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.1979px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999992">Updates not allowed</tspan></text>
     <text
        class="f94a8047-fc52-4b2c-b6ed-e6cf30c2e094"
        fill="#151515"
@@ -595,13 +595,13 @@
          font-size="12px"
          font-weight="500"
          id="text108-9"
-         x="236.03999"
+         x="242.5105"
          y="461.06"
          style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.909241"><tspan
            id="tspan60"
-           x="236.03999"
+           x="242.5105"
            y="461.06"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.909241">Upgrades allowed</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.909241">Updates allowed</tspan></text>
     </g>
     <path
        d="m 732.07621,500.12264 h 17.34421"
@@ -763,7 +763,7 @@
          id="tspan35-2-84"
          x="8.0543213"
          y="38.921082"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.8945px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Master (4.16)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.8945px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">Master (4.16)</tspan></text>
     <text
        class="a6c2d765-f5ec-4fb2-8097-92e9f24dbf07"
        fill="#151515"
@@ -1018,14 +1018,20 @@
        xml:space="preserve"
        transform="matrix(1.051299,0,0,1.051299,85.63555,-11.792055)"
        id="text13-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-5);display:inline;fill:#000000;stroke-width:0.853077"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-5);display:inline;fill:#000000;stroke-width:0.853077"
+       x="0"
+       y="0"><tspan
          x="112.57539"
          y="42.970861"
-         id="tspan2">Nightly 
-</tspan><tspan
+         id="tspan5"><tspan
+           style="text-anchor:middle"
+           id="tspan3">Nightly 
+</tspan></tspan><tspan
          x="120.24121"
          y="58.302488"
-         id="tspan3">build</tspan></text>
+         id="tspan8"><tspan
+           style="text-anchor:middle"
+           id="tspan6">build</tspan></tspan></text>
     <g
        id="g93"
        transform="matrix(1.1532831,0,0,1.1914804,-65.380765,-89.385325)"
@@ -1048,14 +1054,20 @@
        xml:space="preserve"
        transform="matrix(1.051299,0,0,1.051299,182.74231,-11.792038)"
        id="text13-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-7);display:inline;fill:#000000;stroke-width:0.853077"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-7);display:inline;fill:#000000;stroke-width:0.853077"
+       x="0"
+       y="0"><tspan
          x="112.57539"
          y="42.970861"
-         id="tspan4">Nightly 
-</tspan><tspan
+         id="tspan10"><tspan
+           style="text-anchor:middle"
+           id="tspan9">Nightly 
+</tspan></tspan><tspan
          x="120.24121"
          y="58.302488"
-         id="tspan5">build</tspan></text>
+         id="tspan12"><tspan
+           style="text-anchor:middle"
+           id="tspan11">build</tspan></tspan></text>
     <g
        id="g91"
        transform="matrix(1.1532831,0,0,1.1914804,-65.94805,-89.385325)"
@@ -1078,18 +1090,20 @@
        xml:space="preserve"
        transform="matrix(1.051299,0,0,1.051299,376.95579,-11.792038)"
        id="text13-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-6);display:inline;fill:#000000;stroke-width:0.853077"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Display';-inkscape-font-specification:'Red Hat Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-6);display:inline;fill:#000000;stroke-width:0.853077"
+       x="0"
+       y="0"><tspan
          x="112.57539"
          y="42.970861"
-         id="tspan7"><tspan
-           style="font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal'"
-           id="tspan6">Nightly 
+         id="tspan20"><tspan
+           style="font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';text-anchor:middle"
+           id="tspan13">Nightly 
 </tspan></tspan><tspan
          x="120.24121"
          y="58.302488"
-         id="tspan23"><tspan
-           style="font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal'"
-           id="tspan8">build</tspan></tspan></text>
+         id="tspan22"><tspan
+           style="font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';text-anchor:middle"
+           id="tspan21">build</tspan></tspan></text>
     <g
        id="g92"
        transform="matrix(1.1532831,0,0,1.1914804,-65.664396,-89.385368)"
@@ -1112,14 +1126,20 @@
        xml:space="preserve"
        transform="matrix(1.051299,0,0,1.051299,279.84903,-11.792038)"
        id="text13-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-4);display:inline;fill:#000000;stroke-width:0.853077"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-4);display:inline;fill:#000000;stroke-width:0.853077"
+       x="0"
+       y="0"><tspan
          x="112.57539"
          y="42.970861"
-         id="tspan27">Nightly 
-</tspan><tspan
+         id="tspan25"><tspan
+           style="text-anchor:middle"
+           id="tspan23">Nightly 
+</tspan></tspan><tspan
          x="120.24121"
          y="58.302488"
-         id="tspan28">build</tspan></text>
+         id="tspan30"><tspan
+           style="text-anchor:middle"
+           id="tspan28">build</tspan></tspan></text>
     <g
        id="g90"
        transform="matrix(1.1532831,0,0,1.1914804,-64.813487,-89.385325)"
@@ -1142,14 +1162,20 @@
        xml:space="preserve"
        transform="matrix(1.051299,0,0,1.051299,474.06255,-11.792038)"
        id="text13-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-71);display:inline;fill:#000000;stroke-width:0.853077"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2653px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect13-71);display:inline;fill:#000000;stroke-width:0.853077"
+       x="0"
+       y="0"><tspan
          x="112.57539"
          y="42.970861"
-         id="tspan29">Nightly 
-</tspan><tspan
+         id="tspan32"><tspan
+           style="text-anchor:middle"
+           id="tspan31">Nightly 
+</tspan></tspan><tspan
          x="120.24121"
          y="58.302488"
-         id="tspan31">build</tspan></text>
+         id="tspan35"><tspan
+           style="text-anchor:middle"
+           id="tspan34">build</tspan></tspan></text>
     <rect
        class="cls-44"
        fill="#e8e8e8"
@@ -1390,10 +1416,10 @@
                  font-size="11px"
                  font-weight="500"
                  id="text17-0-8-1-6-1-8-4"
-                 x="216.01833"
+                 x="216.11253"
                  y="830.6955"
-                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
                    id="tspan19">4.14.25</tspan></text>
             </g>
           </g>
@@ -1429,10 +1455,10 @@
                font-size="11px"
                font-weight="500"
                id="text17-0-8-1-6-1-7-6"
-               x="299.02078"
-               y="948.97272"
+               x="298.93347"
+               y="948.97821"
                style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
                  id="tspan16">4.14.24</tspan></text>
           </g>
         </g>
@@ -1463,7 +1489,7 @@
               <g
                  id="g70-8"
                  style="stroke-width:0.853077"
-                 transform="translate(-1.8851747,-0.55327835)">
+                 transform="translate(-1.7513333,-0.55327835)">
                 <text
                    class="ba0b113d-9a3d-4894-933c-5db1c3362bf0"
                    fill="#151515"
@@ -1471,10 +1497,10 @@
                    font-size="11px"
                    font-weight="500"
                    id="text17-0-8-1-6-1-5"
-                   x="215.84949"
+                   x="216.52417"
                    y="830.97498"
-                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
-                     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
                      id="tspan15">4.14.23</tspan></text>
               </g>
             </g>
@@ -1623,7 +1649,8 @@
          style="stroke-width:0.853077">
         <g
            id="g12"
-           style="stroke-width:0.853077">
+           style="stroke-width:0.853077"
+           transform="translate(0.04233256,0.2325872)">
           <g
              id="g68"
              transform="translate(-77.741796,-12.139948)"
@@ -1688,10 +1715,10 @@
                  font-size="11.5077px"
                  font-weight="500"
                  id="text17-0-8-1-6-1-8"
-                 x="201.21126"
+                 x="202.02835"
                  y="791.28784"
-                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.5077px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.892455"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.5077px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.892455"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5077px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.892455"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5077px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.892455"
                    id="tspan18">4.15.32</tspan></text>
             </g>
           </g>
@@ -1712,10 +1739,10 @@
            font-size="11px"
            font-weight="500"
            id="text17-0-8-1-6-1-7"
-           x="386.31799"
-           y="818.83502"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
+           x="386.36032"
+           y="819.06763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
              id="tspan17">4.15.31</tspan></text>
         <text
            class="ba0b113d-9a3d-4894-933c-5db1c3362bf0"
@@ -1724,10 +1751,10 @@
            font-size="11px"
            font-weight="500"
            id="text17-0-8-1-6-1-7-0"
-           x="220.54083"
+           x="221.30536"
            y="818.83502"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#151515;stroke-width:0.853077"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.853077"
              id="tspan17-9">4.15.30</tspan></text>
       </g>
     </g>
@@ -1810,26 +1837,27 @@
        x="109.03858"
        y="0"
        transform="matrix(1.051299,0,0,1.051299,57.749898,-36.670065)"><tspan
-         x="64.012013"
+         x="60.074804"
          y="425.97086"
-         id="tspan33"><tspan
-           style="font-weight:normal;-inkscape-font-specification:'Red Hat Text, Normal';text-align:center;text-anchor:middle"
-           id="tspan32">Bug fixes or backports &lt; 4.15.30 
+         id="tspan38"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan36">Bug fixes or backports &lt; 4.15.30 
 </tspan></tspan><tspan
-         x="93.67564"
+         x="90.897496"
          y="441.3025"
-         id="tspan35"><tspan
-           style="font-weight:normal;-inkscape-font-specification:'Red Hat Text, Normal';text-align:center;text-anchor:middle"
-           id="tspan34">or 4.14.23 not allowed</tspan></tspan></text>
+         id="tspan40"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan39">or 4.14.23 not allowed</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text31"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.2653px;line-height:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect31);display:inline;opacity:1;vector-effect:none;fill:#151515;fill-opacity:1;stroke-width:0.951197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
        transform="matrix(1.051299,0,0,1.051299,2.7749337,-36.670065)"><tspan
-         x="331.13506"
+         x="347.68086"
          y="425.97086"
-         id="tspan37"><tspan
-           style="font-weight:normal;-inkscape-font-specification:'Red Hat Text, Normal'"
-           id="tspan36">Bug fixes and backports &gt;= 4.14.24 or 4.15.31 allowed</tspan></tspan></text>
+         id="tspan41">Bug fixes and backports &gt;= 4.14.24 or 4.15.31 </tspan><tspan
+         x="452.2058"
+         y="441.3025"
+         id="tspan42">allowed</tspan></text>
   </g>
 </svg>
