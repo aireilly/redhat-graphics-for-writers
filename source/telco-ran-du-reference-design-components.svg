@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="b14b5af0-6a87-4b4f-9845-b7243b360c48"
+   data-name="artwork"
+   width="760"
+   height="520.107"
+   viewBox="0 0 760 520.107"
+   version="1.1"
+   sodipodi:docname="telco-ran-du-reference-design-components.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="../for-web/telco-ran-du-reference-design-components.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="0.70710677"
+     inkscape:cx="241.83052"
+     inkscape:cy="364.8671"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g71"
+     inkscape:export-bgcolor="#ffffffff"
+     showguides="true">
+    <inkscape:grid
+       id="grid34"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       enabled="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .b0bef269-1796-4615-99cb-4783202cfa9a {
+        fill: #e8e8e8;
+      }
+
+      .a01e20e4-a59a-4f3c-83b3-5080b0562f4b, .ae27f5c3-6d80-4894-a05b-b68f39abd414, .afe146c6-7fa3-4b73-b850-4475002cdc9e, .b44593f7-16b6-4a93-80ed-81740c41cf91, .ea2ef0de-9ef9-4eb0-a179-e665eff7a374 {
+        fill: none;
+      }
+
+      .ea2ef0de-9ef9-4eb0-a179-e665eff7a374 {
+        stroke: #151515;
+      }
+
+      .ae27f5c3-6d80-4894-a05b-b68f39abd414, .afe146c6-7fa3-4b73-b850-4475002cdc9e, .b44593f7-16b6-4a93-80ed-81740c41cf91, .ea2ef0de-9ef9-4eb0-a179-e665eff7a374, .f73825bf-3332-4c0a-a917-a7d8dbd47ac2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .a2441b4c-b54d-410c-b6ec-6c7920ff3000, .a492a650-cffe-4fd7-b939-c6f739afa894, .a5c49360-24a3-4aa2-ba54-9d0e7e863a85, .abfb7cef-2e20-4d93-8c7a-2a7aabad64fb {
+        fill: #151515;
+      }
+
+      .a2441b4c-b54d-410c-b6ec-6c7920ff3000, .abfb7cef-2e20-4d93-8c7a-2a7aabad64fb {
+        font-size: 11px;
+      }
+
+      .abfb7cef-2e20-4d93-8c7a-2a7aabad64fb {
+        font-family: RedHatText-Medium, Red Hat Text;
+        font-weight: 500;
+      }
+
+      .eb63c775-8059-44bd-859b-622049a8dda7, .f73825bf-3332-4c0a-a917-a7d8dbd47ac2 {
+        fill: #fff;
+      }
+
+      .f73825bf-3332-4c0a-a917-a7d8dbd47ac2 {
+        stroke: #5b5b5b;
+        stroke-width: 1.5px;
+      }
+
+      .fb392db5-7c11-447b-a3e6-0775b404aa51 {
+        fill: #06c;
+      }
+
+      .a2441b4c-b54d-410c-b6ec-6c7920ff3000, .a492a650-cffe-4fd7-b939-c6f739afa894 {
+        font-family: RedHatText-Bold, Red Hat Text;
+        font-weight: 700;
+      }
+
+      .f322d169-ab70-482b-8bf2-420ab8810c7b {
+        fill: #d9e8f7;
+      }
+
+      .a492a650-cffe-4fd7-b939-c6f739afa894 {
+        font-size: 14px;
+      }
+
+      .bb95f4be-8802-47bc-9375-6f68782879ff, .e5468b94-b364-4318-a498-0a2edc1a8cd8 {
+        fill: #f3f3f3;
+      }
+
+      .ae27f5c3-6d80-4894-a05b-b68f39abd414, .afe146c6-7fa3-4b73-b850-4475002cdc9e, .b44593f7-16b6-4a93-80ed-81740c41cf91 {
+        stroke: #06c;
+      }
+
+      .ae27f5c3-6d80-4894-a05b-b68f39abd414 {
+        stroke-dasharray: 3.003 3.003;
+      }
+
+      .b44593f7-16b6-4a93-80ed-81740c41cf91 {
+        stroke-dasharray: 3.018 3.018;
+      }
+
+      .bb95f4be-8802-47bc-9375-6f68782879ff {
+        font-size: 10px;
+        font-family: RedHatText-Regular, Red Hat Text;
+      }
+    </style>
+  </defs>
+  <path
+     style="fill:#5e40be;fill-opacity:1;stroke-width:1.89732;stroke-dasharray:none"
+     d=""
+     id="path107" />
+  <path
+     style="fill:#5e40be;fill-opacity:1;stroke-width:1.89732;stroke-dasharray:none"
+     d=""
+     id="path108" />
+  <text
+     xml:space="preserve"
+     style="font-size:11px;font-family:Sans;-inkscape-font-specification:'Sans, ';fill:#5e40be;stroke-width:1.89732"
+     x="623.63843"
+     y="517.02167"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="623.63843"
+       y="517.02167"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec">telco-ran-du-reference-design-components-417.svg</tspan></text>
+  <g
+     id="g71"
+     transform="matrix(1.0489415,0,0,1.0489495,-19.933531,-25.99962)"
+     style="stroke-width:0.953339">
+    <text
+       class="fc8bf562-d771-4414-816f-66ddb427b091"
+       id="text1-1"
+       style="font-weight:700;font-size:13.1147px;font-family:RedHatText-Bold, 'Red Hat Text';fill:#151515;stroke-width:0.893056"
+       x="57.746731"
+       y="157.84665">RAN DU profile</text>
+    <text
+       class="f801fae5-8bd8-4021-bd87-ca98c8908e2a"
+       id="text57-1"
+       style="font-weight:700;font-size:11.2412px;font-family:RedHatText-Bold, 'Red Hat Text';fill:#151515;stroke-width:0.893056"
+       x="174.99278"
+       y="275.41431"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         x="174.99278"
+         y="275.41431"
+         style="text-align:end;text-anchor:end;stroke-width:0.893056">5G RAN platform</tspan><tspan
+         sodipodi:role="line"
+         x="174.99278"
+         y="289.46582"
+         id="tspan41"
+         style="text-align:end;text-anchor:end;stroke-width:0.893056">components</tspan><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="174.99278"
+         y="303.5173"
+         style="text-align:end;text-anchor:end;stroke-width:0.893056" /></text>
+    <text
+       class="f801fae5-8bd8-4021-bd87-ca98c8908e2a"
+       id="text57-1-4"
+       style="font-weight:700;font-size:11.2412px;font-family:RedHatText-Bold, 'Red Hat Text';fill:#151515;stroke-width:0.893056"
+       x="174.99278"
+       y="79.103172"><tspan
+         sodipodi:role="line"
+         id="tspan40-0"
+         x="174.99278"
+         y="79.103172"
+         style="text-align:end;text-anchor:end;stroke-width:0.893056">5G RAN</tspan><tspan
+         sodipodi:role="line"
+         x="174.99278"
+         y="93.154663"
+         style="text-align:end;text-anchor:end;stroke-width:0.893056"
+         id="tspan70">application</tspan><tspan
+         sodipodi:role="line"
+         x="174.99278"
+         y="107.20616"
+         style="text-align:end;text-anchor:end;stroke-width:0.893056"
+         id="tspan71">components</tspan></text>
+    <g
+       id="g13"
+       transform="matrix(0.93676632,0,0,0.93676632,24.109324,17.412214)">
+      <rect
+         class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+         x="183.99721"
+         y="373.85925"
+         width="410.30905"
+         height="41.616177"
+         id="rect49-3-3-7"
+         style="fill:#d9e8f7;stroke-width:0.953214" />
+      <g
+         id="g6"
+         transform="translate(0,-18.391927)">
+        <rect
+           class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+           x="183.99721"
+           y="198.12643"
+           width="410.30905"
+           height="41.616177"
+           id="rect49-3-3"
+           style="fill:#d9e8f7;stroke-width:0.953214" />
+        <text
+           class="afc812a4-4948-4019-8c15-cdb5b7709030"
+           id="text31-2-9"
+           x="392.71002"
+           y="213.42253"
+           style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.953339"><tspan
+             sodipodi:role="line"
+             id="tspan54"
+             x="392.71002"
+             y="213.42253"
+             style="text-align:center;text-anchor:middle;stroke-width:0.953339">SR-IOV Operator</tspan><tspan
+             sodipodi:role="line"
+             x="392.71002"
+             y="228.42253"
+             id="tspan55"
+             style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.953339">(Single root IO virtualization)</tspan></text>
+      </g>
+      <g
+         id="g7"
+         transform="translate(0,-21.1346)">
+        <rect
+           class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+           x="183.99721"
+           y="152.33792"
+           width="410.30905"
+           height="41.616177"
+           id="rect49-3"
+           style="fill:#d9e8f7;stroke-width:0.953214" />
+        <text
+           class="afc812a4-4948-4019-8c15-cdb5b7709030"
+           id="text31-2"
+           x="392.71002"
+           y="168.59201"
+           style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';text-align:center;text-anchor:middle;fill:#151515;stroke-width:0.953339"><tspan
+             sodipodi:role="line"
+             id="tspan51"
+             x="392.71002"
+             y="168.59201"
+             style="stroke-width:0.953339">PTP Operator</tspan><tspan
+             sodipodi:role="line"
+             id="tspan52"
+             x="392.71002"
+             y="183.59201"
+             style="font-weight:normal;stroke-width:0.953339">(PTP config, fast event notifications, DU only)</tspan></text>
+      </g>
+      <g
+         id="g5"
+         transform="translate(0,-15.648979)">
+        <rect
+           class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+           x="183.99721"
+           y="243.91467"
+           width="410.30905"
+           height="41.616177"
+           id="rect49-3-5"
+           style="fill:#d9e8f7;stroke-width:0.953214" />
+        <text
+           class="afc812a4-4948-4019-8c15-cdb5b7709030"
+           id="text31-2-1"
+           x="392.34402"
+           y="262.03943"
+           style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.953339"><tspan
+             sodipodi:role="line"
+             id="tspan56"
+             x="392.34402"
+             y="262.03943"
+             style="text-align:center;text-anchor:middle;stroke-width:0.953339">Local Storage Operator</tspan><tspan
+             sodipodi:role="line"
+             id="tspan57"
+             x="392.34402"
+             y="277.03943"
+             style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.953339">(Persistent storage)</tspan></text>
+      </g>
+      <g
+         id="g4"
+         transform="translate(0,-12.906244)">
+        <rect
+           class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+           x="183.99721"
+           y="289.70312"
+           width="410.30905"
+           height="41.616177"
+           id="rect49-3-2"
+           style="fill:#d9e8f7;stroke-width:0.953214" />
+        <text
+           class="afc812a4-4948-4019-8c15-cdb5b7709030"
+           id="text31-2-4"
+           x="392.71002"
+           y="306.22122"
+           style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.953339"><tspan
+             sodipodi:role="line"
+             id="tspan59"
+             x="392.71002"
+             y="306.22122"
+             style="text-align:center;text-anchor:middle;stroke-width:0.953339">Lifecycle Agent</tspan><tspan
+             sodipodi:role="line"
+             x="392.71002"
+             y="321.22122"
+             id="tspan60"
+             style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.953339">(Image-based upgrades)</tspan></text>
+      </g>
+      <rect
+         class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+         x="183.99721"
+         y="325.32806"
+         width="410.30905"
+         height="41.616177"
+         id="rect49-3-8"
+         style="fill:#d9e8f7;stroke-width:0.953214" />
+    </g>
+    <text
+       class="afc812a4-4948-4019-8c15-cdb5b7709030"
+       id="text31-2-8"
+       x="391.64398"
+       y="337.56891"
+       style="font-weight:500;font-size:11.2412px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.893056"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         x="391.64398"
+         y="337.56891"
+         style="text-align:center;text-anchor:middle;stroke-width:0.893056">Cluster Logging Operator</tspan><tspan
+         sodipodi:role="line"
+         x="391.64398"
+         y="351.62042"
+         id="tspan63"
+         style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.893056">(Log exports)</tspan></text>
+    <text
+       class="afc812a4-4948-4019-8c15-cdb5b7709030"
+       id="text31-2-8-5"
+       x="388.74911"
+       y="383.10455"
+       style="font-weight:500;font-size:11.2412px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.893056"><tspan
+         sodipodi:role="line"
+         id="tspan62-6"
+         x="388.74911"
+         y="383.10455"
+         style="text-align:center;text-anchor:middle;stroke-width:0.893056">OpenShift API for Data Protection (OADP)</tspan><tspan
+         sodipodi:role="line"
+         x="388.74911"
+         y="397.15607"
+         id="tspan63-2"
+         style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.893056">(Disaster recovery protection)</tspan></text>
+    <g
+       id="g1"
+       transform="matrix(0.93676632,0,0,0.93676632,24.109324,55.923234)">
+      <rect
+         class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+         x="183.99721"
+         y="381.27985"
+         width="410.30905"
+         height="41.616177"
+         id="rect49-3-2-7"
+         style="fill:#86c2ff;fill-opacity:1;stroke-width:0.953214" />
+      <text
+         class="afc812a4-4948-4019-8c15-cdb5b7709030"
+         id="text31-2-5"
+         x="392.60803"
+         y="400"
+         style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.953339"><tspan
+           sodipodi:role="line"
+           id="tspan64"
+           x="392.60803"
+           y="400"
+           style="text-align:center;text-anchor:middle;stroke-width:0.953339">Red Hat OpenShift Container Platform</tspan><tspan
+           sodipodi:role="line"
+           id="tspan65"
+           x="392.60803"
+           y="415"
+           style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.953339">(enterprise-4.18, crun runtime)</tspan></text>
+    </g>
+    <rect
+       class="af67ffe0-9bdd-43a0-a61a-e978d6728d75"
+       x="196.47171"
+       y="458.55573"
+       width="384.36371"
+       height="38.984634"
+       id="rect49-3-8-3"
+       style="fill:#86c2ff;fill-opacity:1;stroke-width:0.892939" />
+    <text
+       class="afc812a4-4948-4019-8c15-cdb5b7709030"
+       id="text31-2-3"
+       x="391.72833"
+       y="473.95627"
+       style="font-weight:500;font-size:11.2412px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.893056"><tspan
+         sodipodi:role="line"
+         id="tspan67"
+         x="391.72833"
+         y="473.95627"
+         style="text-align:center;text-anchor:middle;stroke-width:0.893056">Red Hat Enterprise Linux CoreOS</tspan><tspan
+         sodipodi:role="line"
+         x="391.72833"
+         y="488.00775"
+         id="tspan68"
+         style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.893056">(rhel-9.4)</tspan></text>
+    <text
+       class="f801fae5-8bd8-4021-bd87-ca98c8908e2a"
+       id="text57-6"
+       style="font-weight:700;font-size:11.2412px;font-family:RedHatText-Bold, 'Red Hat Text';fill:#151515;stroke-width:0.893056"
+       x="600.6344"
+       y="261.78928"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         x="600.6344"
+         y="261.78928"
+         style="stroke-width:0.893056">Platform Operator</tspan><tspan
+         sodipodi:role="line"
+         x="600.6344"
+         y="275.84076"
+         id="tspan46"
+         style="stroke-width:0.893056">configuration and</tspan><tspan
+         sodipodi:role="line"
+         x="600.6344"
+         y="289.89227"
+         id="tspan47"
+         style="stroke-width:0.893056">system tuning</tspan><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         x="600.6344"
+         y="303.94376"
+         style="stroke-width:0.893056" /></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#0066cc;stroke-width:0.801071;stroke-linejoin:round;stroke-dasharray:3.20428, 2.40321;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1"
+       width="663.22321"
+       height="364.65573"
+       x="49.661819"
+       y="136.27534" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.893055px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 184.76475,406.47536 V 141.54804"
+       id="path36-6-7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.893055px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 189.44858,406.47536 h -4.68383"
+       id="path37-5-4"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.893055px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 189.44858,141.54804 h -4.68383"
+       id="path38-6-5"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       class="f801fae5-8bd8-4021-bd87-ca98c8908e2a"
+       id="text57"
+       style="font-weight:700;font-size:11.2412px;font-family:RedHatText-Bold, 'Red Hat Text';fill:#151515;stroke-width:0.893056"
+       x="76.744713"
+       y="459.3385"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         x="76.744713"
+         y="459.3385"
+         style="stroke-width:0.893056">Base components</tspan></text>
+    <g
+       id="g41"
+       style="stroke-width:0.943285"
+       transform="matrix(0.93676632,0,0,0.95684244,24.109324,49.115148)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.943272px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 171.54696,468.18441 V 381.68456"
+         id="path36-6-7-0"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.943272px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 176.54696,468.18441 h -5"
+         id="path37-5-4-7"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.943272px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 176.54696,381.68456 h -5"
+         id="path38-6-5-8"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g8"
+       transform="matrix(0.93676632,0,0,0.93676632,24.109324,1.5449072)">
+      <rect
+         class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0"
+         x="182.84789"
+         y="51.07933"
+         width="412.6077"
+         height="41.616177"
+         id="rect30"
+         style="fill:#e8e8e8;stroke-width:0.953214" />
+      <text
+         class="afc812a4-4948-4019-8c15-cdb5b7709030"
+         id="text31"
+         x="334.16202"
+         y="76.940002"
+         style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.953339">Application workload</text>
+    </g>
+    <g
+       id="g9"
+       transform="matrix(0.93676632,0,0,0.93676632,24.109324,4.1142726)">
+      <rect
+         class="f4d3b1b9-dfc1-4ec2-b547-6289c998ecd0"
+         x="182.84789"
+         y="96.867714"
+         width="412.6077"
+         height="41.616177"
+         id="rect30-0"
+         style="fill:#e8e8e8;stroke-width:0.953214" />
+      <text
+         class="afc812a4-4948-4019-8c15-cdb5b7709030"
+         id="text31-1"
+         x="392.34402"
+         y="113.1218"
+         style="font-weight:500;font-size:12px;font-family:RedHatText-Medium, 'Red Hat Text';fill:#151515;stroke-width:0.953339"><tspan
+           sodipodi:role="line"
+           id="tspan48"
+           x="392.34402"
+           y="113.1218"
+           style="text-align:center;text-anchor:middle;stroke-width:0.953339">FEC Operator</tspan><tspan
+           sodipodi:role="line"
+           x="392.34402"
+           y="128.1218"
+           id="tspan50"
+           style="font-weight:normal;text-align:center;text-anchor:middle;stroke-width:0.953339">(Accelerator)</tspan></text>
+    </g>
+    <g
+       id="g14"
+       transform="matrix(0.93676632,0,0,0.95136713,24.109324,17.430262)"
+       style="stroke-width:0.945995">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.945982px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 171.5,121.09315 V 34.5933"
+         id="path36-6-7-0-8"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.945982px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 176.5,121.09315 h -5"
+         id="path37-5-4-7-4"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.945982px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 176.5,34.5933 h -5"
+         id="path38-6-5-8-3"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g72"
+       transform="matrix(0.93676632,0,0,0.8397705,22.323206,12.592243)"
+       style="stroke-width:1.00689">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00689px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 606.8478,152.86399 V 468.20774"
+         id="path36-6-7-2"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00689px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 601.8478,152.86399 h 5"
+         id="path37-5-4-6"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00689px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 601.8478,468.20774 h 5"
+         id="path38-6-5-6"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:83.7366px;line-height:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#affc41;stroke-width:1.1036"
+       x="633.00702"
+       y="513.51862"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.096px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1;stroke-width:1.1036"
+         x="633.00702"
+         y="513.51862">telco-ran-du-reference-design-components.svg</tspan></text>
+  </g>
+</svg>
