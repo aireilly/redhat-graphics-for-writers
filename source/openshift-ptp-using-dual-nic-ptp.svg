@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1013.3333"
+   height="957.15649"
+   viewBox="0 0 1013.3333 957.15651"
+   sodipodi:docname="openshift-ptp-using-dual-nic-ptp.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="../for-web/openshift-ptp-using-dual-nic-ptp.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath43">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-719.18252,-675.00001)"
+         id="path43" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath45">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-707.46532,-675.00001)"
+         id="path45" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath47">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-716.09302,-675.00001)"
+         id="path47" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath49">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-709.03292,-670.94341)"
+         id="path49" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath51">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-705.97742,-686.16052)"
+         id="path51" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-719.18252,-675.00001)"
+         id="path53" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath55">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-610.00001,-600.05622)"
+         id="path55" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath57">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-709.91892,-630.11671)"
+         id="path57" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath59">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path59" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath61">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-170.7544,-650.00002)"
+         id="path61" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath63">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path63" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath65">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path65" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath67">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path67" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath69">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path69" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath71">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path71" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath73">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path73" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath75">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path75" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath77">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-719.18252,-352.00001)"
+         id="path77" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath79">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-707.46532,-352.00001)"
+         id="path79" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath81">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-716.09302,-352.00001)"
+         id="path81" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath83">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-709.03292,-347.94341)"
+         id="path83" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath85">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-705.97742,-363.16051)"
+         id="path85" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath87">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-719.18252,-352.00001)"
+         id="path87" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath89">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-610.00001,-277.00001)"
+         id="path89" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath91">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-709.91872,-307.11671)"
+         id="path91" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath93">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path93" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-16,-521.76181)"
+         id="path96" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-16,-491.76181)"
+         id="path98" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath100">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-16,-461.76181)"
+         id="path100" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath102">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-16,-431.76181)"
+         id="path102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath104">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path104" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath106">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-170.7543,-494.50001)"
+         id="path106" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path108" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath110">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path110" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath112">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-170.7543,-301.50001)"
+         id="path112" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath114">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-170.7543,-327.00001)"
+         id="path114" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath118">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path118" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath120">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-445.00001,-312.00001)"
+         id="path120" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath122">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-316.07911,-316.98631)"
+         id="path122" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath124">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path124" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath126">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path126" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath130">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path130" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath132">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-719.18252,-159.5)"
+         id="path132" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath134">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-707.46532,-159.5)"
+         id="path134" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath136">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-716.09302,-159.5)"
+         id="path136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath138">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-709.03292,-155.44331)"
+         id="path138" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-705.97742,-170.66051)"
+         id="path140" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath142">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-719.18252,-159.5)"
+         id="path142" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath144">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-610.00001,-84.500002)"
+         id="path144" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath146">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-709.91872,-114.6167)"
+         id="path146" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath148">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path148" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath150">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath152">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path152" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath154">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-170.7543,-134.50001)"
+         id="path154" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath156">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-445.00001,-119.50001)"
+         id="path156" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath158">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-316.07911,-124.48631)"
+         id="path158" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath160">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path160" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath162">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path162" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath163">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="matrix(1,0,0,-1,-668.10161,17.640598)"
+         id="path163" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath165">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(-170.7544,-520.00002)"
+         id="path165" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath167">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path167" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath169">
+      <path
+         d="M 0,756.5 H 760 V 0 H 0 Z"
+         transform="translate(0,2.5000001e-5)"
+         id="path169" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.56103341"
+     inkscape:cx="357.37622"
+     inkscape:cy="361.83228"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer-MC0"
+     inkscape:export-bgcolor="#ffffffff">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1013.3333"
+       height="957.15649"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="artwork"
+     transform="translate(0,-31.333391)">
+    <path
+       id="path1"
+       d="M 0,0 H -1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,186,155.424)" />
+    <path
+       id="path2"
+       d="M 0,0 H -22.13"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.951, 2.951;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,180.06573,155.424)" />
+    <path
+       id="path3"
+       d="M 0,0 H -1.5 V -1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,148.59173,155.424)" />
+    <path
+       id="path4"
+       d="M 0,0 V -122.745"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.958, 2.958;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,146.59173,161.3676)" />
+    <path
+       id="path5"
+       d="M 0,0 V -1.5 H 1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,146.59173,327)" />
+    <path
+       id="path6"
+       d="M 0,0 H 3.44"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.293, 2.293;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,151.64973,329)" />
+    <path
+       id="path7"
+       d="M 0,0 H 1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,157.76493,329)" />
+    <path
+       id="path8"
+       d="M 0,0 8.635,4.986 0,9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,157.8196,335.6484)" />
+    <path
+       id="path9"
+       d="M 0,0 H -1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,199.92507,363)" />
+    <path
+       id="path10"
+       d="M 0,0 H -32.73"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.846, 2.846;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,194.13027,363)" />
+    <path
+       id="path11"
+       d="M 0,0 H -1.5 V -1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,148.59173,363)" />
+    <path
+       id="path12"
+       d="M 0,0 V -160.257"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.995, 2.995;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,146.59173,368.994)" />
+    <path
+       id="path13"
+       d="M 0,0 V -1.5 H 1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,146.59173,584.66667)" />
+    <path
+       id="path14"
+       d="M 0,0 H 22.77"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.036, 3.036;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,152.64,586.66667)" />
+    <path
+       id="path15"
+       d="M 0,0 H 1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,185.02347,586.66667)" />
+    <path
+       id="path16"
+       d="M 0,0 8.635,4.986 0,9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,185.07813,593.31507)" />
+    <path
+       id="path17"
+       d="M 0,0 H -1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,199.92507,620.33333)" />
+    <path
+       id="path18"
+       d="M 0,0 H -32.73"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.846, 2.846;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,194.13027,620.33333)" />
+    <path
+       id="path19"
+       d="M 0,0 H -1.5 V -1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,148.59173,620.33333)" />
+    <path
+       id="path20"
+       d="M 0,0 V -159.527"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.982, 2.982;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,146.59173,626.30907)" />
+    <path
+       id="path21"
+       d="M 0,0 V -1.5 H 1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,146.59173,841)" />
+    <path
+       id="path22"
+       d="M 0,0 H 22.77"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.036, 3.036;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,152.64,843)" />
+    <path
+       id="path23"
+       d="M 0,0 H 1.5"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,185.02347,843)" />
+    <path
+       id="path24"
+       d="M 0,0 8.635,4.986 0,9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,185.07813,849.6484)" />
+    <path
+       id="path25"
+       d="m 149.944,425 h 610 v 308 h -610 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text25"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,219.33333,68.0488)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2172 -0.26879999 0 0 0 0 0 0 0 0 0 0.21600001 -0.94080001 0.2868 0 -0.156"
+         y="0">Node 1 — Grandmaster clock (T-GM)</tspan></text>
+    <path
+       id="path26"
+       d="M 625,535 H 430 v 155 h 195 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text26"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,593.33333,121.1328)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan26"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.0572 0 0.1144 0.1089 -0.2101"
+         y="0">Linuxptp daemon</tspan></text>
+    <path
+       id="path27"
+       d="m 525,620 h -80 v 30 h 80 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text27"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,629.55147,166.28253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">gpsd</tspan></text>
+    <path
+       id="path28"
+       d="m 610,620 h -80 v 30 h 80 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text28"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,741.0964,166.06253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.2156 0.33219999 0.25409999"
+         y="0">ptp4I</tspan></text>
+    <path
+       id="path29"
+       d="m 304.944,570 h -155 v 120 h 155 z"
+       style="fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text29"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,219.92573,121.1328)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan29"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">NIC</tspan></text>
+    <path
+       id="path30"
+       d="m 214.944,585 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text30"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,222.1588,212.7292)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan30"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.1452 0.20460001"
+         y="0">GNSS</tspan></text>
+    <path
+       id="path31"
+       d="M 0,0 H -40.486"
+       style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,185.0496,208.66667)" />
+    <path
+       id="path32"
+       d="M 0,0 H -50.324"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,187.09827,208.66667)" />
+    <path
+       id="path33"
+       d="M 0,0 8.635,-4.986 0,-9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,185.15293,202.01827)" />
+    <path
+       id="path34"
+       d="M 1.1593322,251.12429 H 121.15933 V 91.122963 H 1.1593322 Z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+    <text
+       id="text34"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:1.33333"
+       x="61.311337"
+       y="166.73163"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="61.311337"
+         y="166.73163"
+         style="stroke-width:1.33333">GNSS</tspan><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="61.311337"
+         y="186.73163"
+         style="stroke-width:1.33333">constellation</tspan></text>
+    <path
+       id="path35"
+       d="M 0,0 H -30 V 35 H -130.38"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,593.33333,208.66667)" />
+    <path
+       id="path36"
+       d="M 0,0 -8.635,-4.986 0,-9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,421.4388,155.3516)" />
+    <path
+       id="path37"
+       d="m 593.33333,208.69983 h -40 v 126.6335 h -133.84"
+       style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path38"
+       d="M 0,0 -8.635,-4.986 0,-9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,421.4388,328.68493)" />
+    <path
+       id="path39"
+       d="M 150,232.5 H 759.999 V 410.001 H 150 Z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text39"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,219.33333,498.71547)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan39"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4332 0 0 0 0 0 0 0 0 0.21600001 -0.94080001 0.17640001 -0.076800004 -0.324"
+         y="0">Node 2 — Boundary clock (T-BC)</tspan></text>
+    <path
+       id="path40"
+       d="m 389.879,623.275 h -55.862 v 23.45 h 55.862 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)" />
+    <text
+       id="text40"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,451.99547,158.28253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan40"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 -0.22 0 0 0 -0.11"
+         y="0">Adjusting</tspan><tspan
+         id="tspan41"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="8.2279997"
+         dx="0 0 0.44 0.33000001 0.38499999 0.16500001"
+         y="12.001">offset</tspan></text>
+    <text
+       id="text41"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,894.7088,149.79053)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan42"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">System clock</tspan></text>
+    <path
+       id="path42"
+       d="m 0,0 c 0,-7.87 -6.38,-14.25 -14.25,-14.25 -7.87,0 -14.25,6.38 -14.25,14.25 0,7.87 6.38,14.25 14.25,14.25 C -6.38,14.25 0,7.87 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,958.91,108.66667)"
+       clip-path="url(#clipPath43)" />
+    <path
+       id="path44"
+       d="m 0,0 c 0,-1.399 -1.134,-2.533 -2.533,-2.533 -1.399,0 -2.533,1.134 -2.533,2.533 0,1.399 1.134,2.533 2.533,2.533 C -1.134,2.533 0,1.399 0,0 Z"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,943.28707,108.66667)"
+       clip-path="url(#clipPath45)" />
+    <path
+       id="path46"
+       d="m 0,0 c 0,-6.164 -4.997,-11.161 -11.161,-11.161 -6.163,0 -11.16,4.997 -11.16,11.161 0,6.164 4.997,11.161 11.16,11.161 C -4.997,11.161 0,6.164 0,0 Z"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 8.763;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,954.79067,108.66667)"
+       clip-path="url(#clipPath47)" />
+    <path
+       id="path48"
+       d="M 0,0 -2.222,2.222"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,945.3772,114.07547)"
+       clip-path="url(#clipPath49)" />
+    <path
+       id="path50"
+       d="m 0,0 c 0,-0.577 -0.468,-1.045 -1.045,-1.045 -0.577,0 -1.045,0.468 -1.045,1.045 0,0.577 0.468,1.045 1.045,1.045 C -0.468,1.045 0,0.577 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,941.3032,93.786)"
+       clip-path="url(#clipPath51)" />
+    <path
+       id="path52"
+       d="m 0,0 c 0,-7.87 -6.38,-14.25 -14.25,-14.25 -7.87,0 -14.25,6.38 -14.25,14.25 0,7.87 6.38,14.25 14.25,14.25 V 2.533"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,958.91,108.66667)"
+       clip-path="url(#clipPath53)" />
+    <path
+       id="path54"
+       d="M 0,0 H 94.933 V 31.519"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,813.33333,208.59173)"
+       clip-path="url(#clipPath55)" />
+    <path
+       id="path56"
+       d="M 0,0 -4.986,8.635 -9.973,0 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,946.55853,168.51107)"
+       clip-path="url(#clipPath57)" />
+    <path
+       id="path58"
+       d="m 685.711,591.269 h -46.303 v 17.462 h 46.303 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath59)" />
+    <text
+       id="text59"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,859.23627,204.9492)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan59"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0.11 -0.16500001 0.1089"
+         y="0">Setting</tspan><tspan
+         id="tspan60"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="7.1170001"
+         y="12.001">time</tspan></text>
+    <path
+       id="path60"
+       d="m 0,0 h -0.003 -37.002 -0.004 c -5.66,0 -5.66,-20.5 0,-20.5 H -37.005 -0.003 0 C 5.661,-20.5 5.661,0 0,0"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,227.67253,142)"
+       clip-path="url(#clipPath61)" />
+    <text
+       id="text61"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,180.71093,160.67187)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan61"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">O</tspan></text>
+    <path
+       id="path62"
+       d="m 304.944,620 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath63)" />
+    <text
+       id="text63"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,347.50787,166.06253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan63"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.1749"
+         y="0">PHC</tspan></text>
+    <path
+       id="path64"
+       d="m 304.944,585 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath65)" />
+    <text
+       id="text65"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,343.68427,212.7292)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan65"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0.1749"
+         y="0">DPLL</tspan></text>
+    <path
+       id="path66"
+       d="m 304.944,440 h -155 v 120 h 155 z"
+       style="fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath67)" />
+    <text
+       id="text67"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,219.92573,294.46613)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan67"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">NIC</tspan></text>
+    <path
+       id="path68"
+       d="m 304.944,490 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath69)" />
+    <text
+       id="text69"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,347.50787,339.39587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan69"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.1749"
+         y="0">PHC</tspan></text>
+    <path
+       id="path70"
+       d="m 304.944,455 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath71)" />
+    <text
+       id="text71"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,343.68427,386.06253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan71"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0.1749"
+         y="0">DPLL</tspan></text>
+    <path
+       id="path72"
+       d="M 625,247 H 430 v 120 h 195 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath73)" />
+    <text
+       id="text73"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,593.33333,551.68227)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan73"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.0572 0 0.1144 0.1089 -0.2101"
+         y="0">Linuxptp daemon</tspan></text>
+    <path
+       id="path74"
+       d="m 610,585 h -80 v 30 h 80 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath75)" />
+    <text
+       id="text75"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,894.70253,580.46093)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">System clock</tspan></text>
+    <path
+       id="path76"
+       d="m 0,0 c 0,-7.87 -6.38,-14.25 -14.25,-14.25 -7.87,0 -14.25,6.38 -14.25,14.25 0,7.87 6.38,14.25 14.25,14.25 C -6.38,14.25 0,7.87 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,958.91,539.33333)"
+       clip-path="url(#clipPath77)" />
+    <path
+       id="path78"
+       d="m 0,0 c 0,-1.399 -1.134,-2.533 -2.533,-2.533 -1.399,0 -2.533,1.134 -2.533,2.533 0,1.399 1.134,2.533 2.533,2.533 C -1.134,2.533 0,1.399 0,0 Z"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,943.28707,539.33333)"
+       clip-path="url(#clipPath79)" />
+    <path
+       id="path80"
+       d="m 0,0 c 0,-6.164 -4.997,-11.161 -11.161,-11.161 -6.163,0 -11.16,4.997 -11.16,11.161 0,6.164 4.997,11.161 11.16,11.161 C -4.997,11.161 0,6.164 0,0 Z"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 8.763;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,954.79067,539.33333)"
+       clip-path="url(#clipPath81)" />
+    <path
+       id="path82"
+       d="M 0,0 -2.222,2.222"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,945.3772,544.74213)"
+       clip-path="url(#clipPath83)" />
+    <path
+       id="path84"
+       d="m 0,0 c 0,-0.577 -0.468,-1.045 -1.045,-1.045 -0.577,0 -1.045,0.468 -1.045,1.045 0,0.577 0.468,1.045 1.045,1.045 C -0.468,1.045 0,0.577 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,941.3032,524.45267)"
+       clip-path="url(#clipPath85)" />
+    <path
+       id="path86"
+       d="m 0,0 c 0,-7.87 -6.38,-14.25 -14.25,-14.25 -7.87,0 -14.25,6.38 -14.25,14.25 0,7.87 6.38,14.25 14.25,14.25 V 2.533"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,958.91,539.33333)"
+       clip-path="url(#clipPath87)" />
+    <path
+       id="path88"
+       d="M 0,0 H 94.932 V 31.576"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,813.33333,639.33333)"
+       clip-path="url(#clipPath89)" />
+    <path
+       id="path90"
+       d="M 0,0 -4.986,8.635 -9.973,0 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,946.55827,599.17773)"
+       clip-path="url(#clipPath91)" />
+    <path
+       id="path92"
+       d="m 685.711,272.973 h -46.303 v 17.462 h 46.303 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath93)" />
+    <text
+       id="text93"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,859.23627,635.61587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan93"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0.11 -0.16500001 0.1089"
+         y="0">Setting</tspan><tspan
+         id="tspan94"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="7.1170001"
+         y="12.001">time</tspan></text>
+    <text
+       id="text94"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,731.6216,212.95187)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan95"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0 0.17380001 0.1881 0.1617 0.086900003"
+         y="0">phc2sys</tspan></text>
+    <path
+       id="path103"
+       d="m 389.879,496.269 h -55.862 v 17.462 h 55.862 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath104)" />
+    <text
+       id="text104"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,451.99547,331.61587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 -0.22 0 0 0 -0.11"
+         y="0">Adjusting</tspan><tspan
+         id="tspan105"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="8.2279997"
+         dx="0 0 0.44 0.33000001 0.38499999 0.16500001"
+         y="12.001">offset</tspan></text>
+    <path
+       id="path105"
+       d="M 0,0 H -0.003 -20.754 V -20.5 H -0.003 0 C 5.661,-20.5 5.661,0 0,0"
+       style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,227.6724,349.33333)"
+       clip-path="url(#clipPath106)" />
+    <text
+       id="text106"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+       x="206.71489"
+       y="368.60001"><tspan
+         id="tspan106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="206.71489"
+         y="368.60001">TT</tspan></text>
+    <path
+       id="path107"
+       d="M 305,247 H 150 v 120 h 155 z"
+       style="fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath108)" />
+    <text
+       id="text108"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,220,551.79947)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan108"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">NIC</tspan></text>
+    <path
+       id="path109"
+       d="m 305,297 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath110)" />
+    <text
+       id="text110"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,347.582,596.7292)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan110"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.1749"
+         y="0">PHC</tspan></text>
+    <path
+       id="path111"
+       d="M 0,0 H -0.003 -20.754 V -20.5 H -0.003 0 C 5.661,-20.5 5.661,0 0,0"
+       style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,227.6724,606.66667)"
+       clip-path="url(#clipPath112)" />
+    <text
+       id="text112"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+       x="206.71489"
+       y="625.93335"><tspan
+         id="tspan112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="206.71489"
+         y="625.93335">TT</tspan></text>
+    <path
+       id="path113"
+       d="M 0,0 H -0.003 -20.754 V -20.5 H -0.003 0 C 5.661,-20.5 5.661,0 0,0"
+       style="fill:#f7823c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,227.6724,572.66667)"
+       clip-path="url(#clipPath114)" />
+    <text
+       id="text114"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+       x="206.6909"
+       y="591.93335"><tspan
+         id="tspan114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="206.6909"
+         y="591.93335">TR</tspan></text>
+    <path
+       id="path117"
+       d="m 525,585 h -80 v 30 h 80 z"
+       style="fill:#99c2eb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath118)" />
+    <text
+       id="text118"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,623.02413,212.9492)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan118"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0.27720001 0.0594 0 0.067100003"
+         y="0">ts2phc</tspan></text>
+    <path
+       id="path119"
+       d="M 0,0 H -130.38"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,593.33333,592.66667)"
+       clip-path="url(#clipPath120)" />
+    <path
+       id="path121"
+       d="M 0,0 -8.635,-4.986 0,-9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,421.4388,586.01827)"
+       clip-path="url(#clipPath122)" />
+    <path
+       id="path123"
+       d="m 389.878,303.269 h -55.862 v 17.462 h 55.862 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath124)" />
+    <text
+       id="text124"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,451.99547,588.9492)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 -0.22 0 0 0 -0.11"
+         y="0">Adjusting</tspan><tspan
+         id="tspan125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="8.2279997"
+         dx="0 0 0.44 0.33000001 0.38499999 0.16500001"
+         y="12.001">offset</tspan></text>
+    <path
+       id="path125"
+       d="M 610,297 H 445 v 30 h 165 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath126)" />
+    <text
+       id="text126"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,684.42973,596.9492)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.2156 0.33219999 0.25409999"
+         y="0">ptp4I</tspan></text>
+    <path
+       id="path127"
+       d="M 760,40 H 150 v 177.5 h 610 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath128)" />
+    <text
+       id="text75-2"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+       x="894.70251"
+       y="834.67761"><tspan
+         id="tspan75-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="894.70251"
+         y="834.67761">System clock</tspan></text>
+    <text
+       id="text128"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,219.33333,755.38213)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan128"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0 0 0 0 0 0 0 0 0.1044 -0.2088 0.063600004 0 0 0 0.4332 0 0 0 0 0 0 0 0 -0.76440001 0 -0.32519999"
+         y="0">Node 3 — Ordinary clock (OC)</tspan></text>
+    <path
+       id="path129"
+       d="M 625,54.5 H 430 v 120 h 195 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath130)" />
+    <text
+       id="text130"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,593.33333,808.34893)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan130"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.0572 0 0.1144 0.1089 -0.2101"
+         y="0">Linuxptp daemon</tspan></text>
+    <path
+       id="path131"
+       d="m 0,0 c 0,-7.87 -6.38,-14.25 -14.25,-14.25 -7.87,0 -14.25,6.38 -14.25,14.25 0,7.87 6.38,14.25 14.25,14.25 C -6.38,14.25 0,7.87 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,958.91,796)"
+       clip-path="url(#clipPath132)" />
+    <path
+       id="path133"
+       d="m 0,0 c 0,-1.399 -1.134,-2.533 -2.533,-2.533 -1.399,0 -2.533,1.134 -2.533,2.533 0,1.399 1.134,2.533 2.533,2.533 C -1.134,2.533 0,1.399 0,0 Z"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,943.28707,796)"
+       clip-path="url(#clipPath134)" />
+    <path
+       id="path135"
+       d="m 0,0 c 0,-6.164 -4.997,-11.161 -11.161,-11.161 -6.163,0 -11.16,4.997 -11.16,11.161 0,6.164 4.997,11.161 11.16,11.161 C -4.997,11.161 0,6.164 0,0 Z"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 8.763;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,954.79067,796)"
+       clip-path="url(#clipPath136)" />
+    <path
+       id="path137"
+       d="M 0,0 -2.222,2.222"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,945.3772,801.40893)"
+       clip-path="url(#clipPath138)" />
+    <path
+       id="path139"
+       d="m 0,0 c 0,-0.577 -0.468,-1.045 -1.045,-1.045 -0.577,0 -1.045,0.468 -1.045,1.045 0,0.577 0.468,1.045 1.045,1.045 C -0.468,1.045 0,0.577 0,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,941.3032,781.11933)"
+       clip-path="url(#clipPath140)" />
+    <path
+       id="path141"
+       d="m 0,0 c 0,-7.87 -6.38,-14.25 -14.25,-14.25 -7.87,0 -14.25,6.38 -14.25,14.25 0,7.87 6.38,14.25 14.25,14.25 V 2.533"
+       style="fill:none;stroke:#5b5b5b;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,958.91,796)"
+       clip-path="url(#clipPath142)" />
+    <path
+       id="path143"
+       d="M 0,0 H 94.932 V 31.576"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,813.33333,896)"
+       clip-path="url(#clipPath144)" />
+    <path
+       id="path145"
+       d="M 0,0 -4.986,8.635 -9.973,0 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,946.55827,855.8444)"
+       clip-path="url(#clipPath146)" />
+    <path
+       id="path147"
+       d="m 685.711,80.473 h -46.303 v 17.462 h 46.303 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath148)" />
+    <text
+       id="text148"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,859.23627,892.28253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0.11 -0.16500001 0.1089"
+         y="0">Setting</tspan><tspan
+         id="tspan149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="7.1170001"
+         y="12.001">time</tspan></text>
+    <path
+       id="path149"
+       d="M 305,54.5 H 150 v 120 h 155 z"
+       style="fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath150)" />
+    <text
+       id="text150"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,220,808.46613)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan150"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0000003px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">NIC</tspan></text>
+    <path
+       id="path151"
+       d="m 305,104.5 h -65 v 30 h 65 z"
+       style="fill:#adadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath152)" />
+    <text
+       id="text152"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,347.582,853.39587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.1749"
+         y="0">PHC</tspan></text>
+    <path
+       id="path153"
+       d="M 0,0 H -0.003 -20.754 V -20.5 H -0.003 0 C 5.661,-20.5 5.661,0 0,0"
+       style="fill:#f7823c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,227.6724,829.33333)"
+       clip-path="url(#clipPath154)" />
+    <text
+       id="text154"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+       x="206.6909"
+       y="848.59998"><tspan
+         id="tspan154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+         x="206.6909"
+         y="848.59998">TR</tspan></text>
+    <path
+       id="path155"
+       d="M 0,0 H -130.38"
+       style="fill:none;stroke:#151515;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,593.33333,849.33333)"
+       clip-path="url(#clipPath156)" />
+    <path
+       id="path157"
+       d="M 0,0 -8.635,-4.986 0,-9.973 Z"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,421.4388,842.68493)"
+       clip-path="url(#clipPath158)" />
+    <path
+       id="path159"
+       d="m 389.878,110.769 h -55.862 v 17.462 h 55.862 z"
+       style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath160)" />
+    <text
+       id="text160"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,451.99547,845.61587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan160"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 -0.22 0 0 0 -0.11"
+         y="0">Adjusting</tspan><tspan
+         id="tspan161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="8.2279997"
+         dx="0 0 0.44 0.33000001 0.38499999 0.16500001"
+         y="12.001">offset</tspan></text>
+    <path
+       id="path161"
+       d="M 610,104.5 H 445 v 30 h 165 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath162)" />
+    <text
+       id="text162"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,684.42973,853.61587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0.2156 0.33219999 0.25409999"
+         y="0">ptp4I</tspan></text>
+    <text
+       id="text163"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,814.60346,977.57057)"
+       clip-path="url(#clipPath163)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:264.591;display:inline" />
+    <path
+       id="path164"
+       d="m 0,0 h -0.003 -37.002 -0.004 c -5.66,0 -5.66,-20.5 0,-20.5 H -37.005 -0.003 0 C 5.661,-20.5 5.661,0 0,0"
+       style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,227.67253,315.33333)"
+       clip-path="url(#clipPath165)" />
+    <text
+       id="text165"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,184.62693,334.0052)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         y="0">I</tspan></text>
+    <path
+       id="path166"
+       d="M 610,262 H 445 v 30 h 165 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath167)" />
+    <text
+       id="text167"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,674.96547,643.39587)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan167"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0 0.1727 0.1881 0.1617 0.086900003"
+         y="0">phc2sys</tspan></text>
+    <path
+       id="path168"
+       d="M 610,69.5 H 445 v 30 h 165 z"
+       style="fill:#d9e8f7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,1008.6667)"
+       clip-path="url(#clipPath169)" />
+    <text
+       id="text169"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,674.96547,900.06253)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0"
+         dx="0 0 0 0.1727 0.1881 0.1617 0.086900003"
+         y="0">phc2sys</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:16px;line-height:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e8e8e8;stroke:#e0f0ff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:11.3386, 3.77953"
+       x="867.14978"
+       y="977.80109"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="867.14978"
+         y="977.80109"
+         style="font-weight:normal">openshift-ptp-using-dual-nic-ptp.svg</tspan></text>
+    <g
+       id="g9"
+       transform="translate(0,-96)">
+      <g
+         id="g8"
+         transform="translate(0,64)">
+        <text
+           id="text96"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="29.235733"
+           y="328.23361"><tspan
+             id="tspan96"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="29.235733"
+             dx="0 0 0 0.13333333"
+             y="328.23361">1PPS_Out</tspan></text>
+        <g
+           id="g4">
+          <path
+             id="path95"
+             d="M 0,0 -16,0.007 V -15.99 l 0.002,-0.003 h 15.992 z"
+             style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1.3333333,0,0,-1.3333333,21.333333,312.98427)"
+             clip-path="url(#clipPath96)" />
+          <text
+             id="text97"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+             x="4.186667"
+             y="329.24161"><tspan
+               id="tspan97"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+               x="4.186667"
+               y="329.24161">O</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g7"
+         transform="translate(0,39.333332)">
+        <text
+           id="text98"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="29.235733"
+           y="404.23361"><tspan
+             id="tspan98"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="29.235733"
+             dx="0 0 0 0.13333333"
+             y="404.23361">1PPS_In</tspan></text>
+        <g
+           id="g3"
+           transform="translate(0,36)">
+          <path
+             id="path97"
+             d="M 0,0 -16,0.007 V -15.99 l 0.002,-0.003 h 15.992 z"
+             style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1.3333333,0,0,-1.3333333,21.333333,352.98427)"
+             clip-path="url(#clipPath98)" />
+          <text
+             id="text99"
+             xml:space="preserve"
+             transform="matrix(1.3333333,0,0,1.3333333,8.8090667,368.02213)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+               id="tspan99"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               x="0"
+               y="0">I</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6"
+         transform="translate(0,17.999998)">
+        <text
+           id="text100"
+           xml:space="preserve"
+           transform="matrix(1.3333333,0,0,1.3333333,29.236267,461.84427)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:103.492;display:inline"><tspan
+             x="0"
+             y="0"
+             id="tspan8"><tspan
+               style="fill:#151515"
+               id="tspan7">PTP </tspan></tspan><tspan
+             x="0"
+             y="15"
+             id="tspan12"><tspan
+               style="fill:#151515"
+               id="tspan11">timeTransmitter </tspan></tspan><tspan
+             x="0"
+             y="30"
+             id="tspan14"><tspan
+               style="fill:#151515"
+               id="tspan13">clock</tspan></tspan></text>
+        <g
+           id="g2"
+           transform="translate(0,72)">
+          <path
+             id="path99"
+             d="M 0,0 -16,0.007 V -15.99 l 0.002,-0.003 h 15.992 z"
+             style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1.3333333,0,0,-1.3333333,21.333333,392.98427)"
+             clip-path="url(#clipPath100)" />
+          <text
+             id="text101"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+             x="0.71466041"
+             y="409.24161"><tspan
+               id="tspan101"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+               x="0.71466041"
+               y="409.24161">TT</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5"
+         transform="translate(0,28)">
+        <g
+           id="g1"
+           transform="translate(0,108)">
+          <path
+             id="path101"
+             d="M 0,0 -16,0.007 V -15.99 l 0.002,-0.003 h 15.992 z"
+             style="fill:#f7823c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="matrix(1.3333333,0,0,-1.3333333,21.333333,432.98427)"
+             clip-path="url(#clipPath102)" />
+          <text
+             id="text103"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+             x="0.69066221"
+             y="449.24161"><tspan
+               id="tspan103"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+               x="0.69066221"
+               y="449.24161">TR</tspan></text>
+        </g>
+        <text
+           id="text100-0"
+           xml:space="preserve"
+           transform="matrix(1.3333333,0,0,1.3333333,27.476391,537.1776)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:103.492;display:inline"><tspan
+             x="0"
+             y="0"
+             id="tspan16"><tspan
+               style="fill:#151515"
+               id="tspan15">PTP </tspan></tspan><tspan
+             x="0"
+             y="15"
+             id="tspan18"><tspan
+               style="fill:#151515"
+               id="tspan17">timeTransmitter </tspan></tspan><tspan
+             x="0"
+             y="30"
+             id="tspan20"><tspan
+               style="fill:#151515"
+               id="tspan19">clock</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

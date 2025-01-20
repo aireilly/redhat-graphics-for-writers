@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="760"
+   height="900"
+   viewBox="0 0 760 900.00001"
+   sodipodi:docname="telco-hub-cluster-rds-architecture.svg"
+   inkscape:export-filename="../for-web/telco-hub-cluster-rds-architecture.png"
+   inkscape:export-xdpi="97.22509"
+   inkscape:export-ydpi="97.22509"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-758.00004,-335.00011)"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-759.50004,-330.48971)"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-759.50004,-41.500004)"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-2.0000001,-40.000003)"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-0.50000002,-44.510301)"
+         id="path19" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath21">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-0.50000002,-333.50011)"
+         id="path21" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-665.01341,-193.5)"
+         id="path64" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath66">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-665.01341,-133.5)"
+         id="path66" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath68">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="matrix(1,0,0,-1,0,360.30321)"
+         id="path68" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath70">
+      <path
+         d="M 0,520.064 H 760 V 0 H 0 Z"
+         transform="translate(-50.226802,-351.20611)"
+         id="path70" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath80">
+      <path
+         d="M 0,801.064 H 760 V 0 H 0 Z"
+         transform="translate(-2.0000001,-60.000004)"
+         id="path80" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath82">
+      <path
+         d="M 0,801.064 H 760 V 0 H 0 Z"
+         transform="translate(-0.50000001,-64.514899)"
+         id="path82" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath84">
+      <path
+         d="M 0,801.064 H 760 V 0 H 0 Z"
+         transform="translate(-0.50000001,-263.50001)"
+         id="path84" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath134">
+      <path
+         d="M 0,801.064 H 760 V 0 H 0 Z"
+         transform="matrix(1,0,0,-1,2.5000001e-5,290.30321)"
+         id="path134" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath226">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.2500251,-120.00001)"
+         id="path226" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath228">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-0.75002502,-115.42)"
+         id="path228" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath230">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-0.75002502,-41.500001)"
+         id="path230" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath233">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-758.25004,-40.000001)"
+         id="path233" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath235">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-759.75004,-44.580004)"
+         id="path235" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath237">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-759.75004,-118.50001)"
+         id="path237" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath267">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-440.70581,-454.28251)"
+         id="path267" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath269">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-431.51921,-481.63701)"
+         id="path269" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath271">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-177.49998,-329.00001)"
+         id="path271" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath273">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-172.51368,-285.1352)"
+         id="path273" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath275">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-352.24998,-329.00001)"
+         id="path275" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath277">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-347.26368,-285.1352)"
+         id="path277" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath279">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.5000001e-5)"
+         id="path279" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath281">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-492.25001,-389.67621)"
+         id="path281" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath283">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-497.23631,-391.13521)"
+         id="path283" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath285">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-422.25004,-431.17811)"
+         id="path285" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath287">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-352.24998,-389.67621)"
+         id="path287" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath289">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-357.23628,-391.13521)"
+         id="path289" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath291">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-177.51393,-389.67621)"
+         id="path291" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath293">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-182.50023,-391.13521)"
+         id="path293" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath295">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-662.01342,-391.13521)"
+         id="path295" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath297">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.5000001e-5)"
+         id="path297" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath299">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.5000001e-5)"
+         id="path299" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath301">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-410.25004,-114.6628)"
+         id="path301" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath303">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-410.25004,-119.201)"
+         id="path303" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath305">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-410.25004,-222.5)"
+         id="path305" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath307">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-415.23634,-116.1217)"
+         id="path307" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath309">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-135.25,-114.6628)"
+         id="path309" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath311">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-135.25,-119.201)"
+         id="path311" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath313">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-135.25,-222.5)"
+         id="path313" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath315">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-140.2363,-116.1217)"
+         id="path315" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath317">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-609.49999,-319.00001)"
+         id="path317" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath319">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-604.50004,-324.00001)"
+         id="path319" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath321">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-666.99979,-331.50001)"
+         id="path321" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath323">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-667.00002,-329.00001)"
+         id="path323" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath325">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-667.00002,-324.67841)"
+         id="path325" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath327">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-667.00002,-285.17621)"
+         id="path327" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath329">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-662.01372,-285.1352)"
+         id="path329" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath331">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.5000001e-5)"
+         id="path331" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath335">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.5000001e-5)"
+         id="path335" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath337">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-2.5000001e-5)"
+         id="path337" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath350">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-380.25003,-114.6628)"
+         id="path350" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath352">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-385.23633,-116.1217)"
+         id="path352" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath353">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="matrix(1,0,0,-1,-669.63184,16.982403)"
+         id="path353" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath354">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="matrix(1,0,0,-1,-2.5000001e-5,145.3037)"
+         id="path354" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath356">
+      <path
+         d="M 0,507.535 H 760 V 0 H 0 Z"
+         transform="translate(-50.227076,-136.2061)"
+         id="path356" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.78975563"
+     inkscape:cx="215.25646"
+     inkscape:cy="410.25349"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g27"
+     inkscape:export-bgcolor="#ffffffff">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="760"
+       height="900"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="artwork"
+     transform="translate(-5.1953124e-5,-21.333326)">
+    <g
+       id="g1"
+       transform="translate(-10.372056,15.342956)">
+      <text
+         id="text142"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+         x="600.86292"
+         y="900.88354"><tspan
+           id="tspan142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+           x="600.86292"
+           y="900.88354">telco-hub-rds-architecture.svg</tspan></text>
+      <text
+         id="text179"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.8431px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+         x="320.24026"
+         y="256.90747"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="320.24026"
+           y="256.90747"
+           style="stroke-width:1.33333" /></text>
+      <g
+         id="g27"
+         transform="translate(31.945381,17.412574)">
+        <path
+           id="path71"
+           d="M 11.302604,137.05132 H 705.48062 V 5.8551164 H 11.302604 Z"
+           style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path72"
+           d="M 490.18995,119.16108 H 681.02927 V 59.526438"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path73"
+           d="M 484.22628,113.19765 H 675.06562 V 53.562994"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path74"
+           d="M 59.608842,119.16108 H 250.44817 V 59.526438"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path75"
+           d="M 53.645061,113.19765 H 244.48439 V 53.562994"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path76"
+           d="M 11.302604,476.96878 H 705.48062 V 172.83211 H 11.302604 Z"
+           style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path77"
+           d="m 118.76168,870.6338 h -1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path78"
+           d="M 113.49318,870.6338 H -3.0595682"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.88933, 3.88933;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path79"
+           d="M 0,0 H -1.5 V 1.5"
+           style="fill:none;stroke:#adadad;stroke-width:1.11789;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.1927457,0,0,-1.1926927,-4.7994387,870.63371)"
+           clip-path="url(#clipPath80)" />
+        <path
+           id="path81"
+           d="M 0,0 V 197.478"
+           style="fill:none;stroke:#adadad;stroke-width:1.11789;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.37045, 3.37045;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(1.1927457,0,0,-1.1926927,-6.5885183,865.24883)"
+           clip-path="url(#clipPath82)" />
+        <path
+           id="path83"
+           d="M 0,0 V 1.5 H 1.5"
+           style="fill:none;stroke:#adadad;stroke-width:1.11789;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.1927457,0,0,-1.1926927,-6.5885183,627.92074)"
+           clip-path="url(#clipPath84)" />
+        <path
+           id="path85"
+           d="M -1.3234256,626.13177 H 115.12311"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.88534, 3.88534;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path86"
+           d="m 116.86092,626.13177 h 1.78907"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path87"
+           d="m 351.93358,870.6338 h -1.78906"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path88"
+           d="M 346.57436,870.6338 H 134.15111"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.99066, 3.99066;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path89"
+           d="m 127.3529,870.6338 h -1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path90"
+           d="m 627.95211,626.13177 h 1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path91"
+           d="M 633.41493,626.13177 H 719.7459"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.10666, 4.10666;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path92"
+           d="m 721.58266,626.13177 h 1.78906 v 1.78904"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path93"
+           d="M 723.37172,631.51666 V 867.04728"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.02, 4.02;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path94"
+           d="m 723.37172,868.84477 v 1.78903 h -1.78906"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path95"
+           d="M 717.99232,870.6338 H 367.93942"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.01334, 4.01334;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path96"
+           d="m 366.14462,870.6338 h -1.78907"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path97"
+           d="m 595.62685,626.13177 h 1.78907"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path98"
+           d="m 602.78523,626.13177 h 10.01902"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path99"
+           d="m 616.74229,626.13177 h 1.78908"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path99-5"
+           d="m 621.11017,626.13177 h 1.78907"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path100"
+           d="m 393.57769,626.13177 h 1.78907"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path101"
+           d="M 398.93385,626.13177 H 582.63342"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.988, 3.988;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path102"
+           d="m 586.92351,626.13177 h 1.78908"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path103"
+           d="m 363.75922,626.13177 h 1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path104"
+           d="m 368.64938,626.13177 h 10.85395"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.46666, 3.46666;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path105"
+           d="m 383.56041,626.13177 h 1.78906"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path106"
+           d="m 157.88919,626.13177 h 1.78908"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path107"
+           d="M 165.75196,626.13177 H 349.45152"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.988, 3.988;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path108"
+           d="m 353.74204,626.13177 h 1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path109"
+           d="m 128.07073,626.13177 h 1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path110"
+           d="m 135.22909,626.13177 h 10.01905"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path111"
+           d="m 151.69269,626.13177 h 1.78906"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path112"
+           d="m 358.39155,584.25561 v 47.03742"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path113"
+           d="m 352.4442,629.55338 5.94701,10.2989 5.94823,-10.2989 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path114"
+           d="m 124.61344,631.29352 v -47.03743 h 467.55633 v 47.03743"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path115"
+           d="m 130.5609,629.55338 -5.94702,10.2989 -5.94821,-10.2989 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path116"
+           d="m 586.22233,629.55338 5.94702,10.2989 5.94821,-10.2989 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path117"
+           d="M 11.302604,852.74336 H 237.92428 V 644.02211 H 11.302604 Z"
+           style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path118"
+           d="M 29.790158,686.36273 H 219.43672 v 58.44194 H 29.790158 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path119"
+           d="M 220.03306,685.76637 H 29.193836 v 59.63466 H 220.03306 Z m -1.19277,58.44197 H 30.386592 V 686.95906 H 218.84029 Z"
+           style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text119"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="74.454193"
+           y="719.43042"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan120"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="29.190466"
+             y="671.77893">Spoke cluster 1</tspan></text>
+        <path
+           id="path120"
+           d="M 245.0807,852.74336 H 471.70239 V 644.02211 H 245.0807 Z"
+           style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path121"
+           d="m 263.56826,686.36273 h 189.64658 v 58.44194 H 263.56826 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path122"
+           d="M 453.81126,685.76637 H 262.97194 v 59.63466 h 190.83932 z m -1.19275,58.44197 H 264.16469 v -57.24928 h 188.45382 z"
+           style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text122"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="280.86652"
+           y="713.77405"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan122"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="280.86652"
+             y="713.77405">Single-node OpenShift</tspan><tspan
+             id="tspan123"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="297.09595"
+             y="728.08789">and 1 worker node</tspan></text>
+        <path
+           id="path123"
+           d="M 29.193836,834.85298 H 220.03306 V 775.21836 H 29.193836 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text123"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="59.91082"
+           y="808.88434"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan124"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="59.91082"
+             y="808.88434">DU worker node (xN)</tspan></text>
+        <path
+           id="path124"
+           d="M 262.97194,834.85298 H 453.81126 V 775.21836 H 262.97194 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text124"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="296.43329"
+           y="808.88434"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan126"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="261.77048"
+             y="671.78125">Spoke cluster 2</tspan></text>
+        <path
+           id="path126"
+           d="M 478.85893,852.74336 H 705.48062 V 644.02211 H 478.85893 Z"
+           style="fill:#e8e8e8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path127"
+           d="m 497.34647,686.36273 h 189.64658 v 58.44194 H 497.34647 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path128"
+           d="M 687.58939,685.76637 H 496.75006 v 59.63466 h 190.83933 z m -1.19277,58.44197 H 497.9428 v -57.24928 h 188.45382 z"
+           style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text128"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="554.57605"
+           y="712.27472"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan128"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="554.57605"
+             y="712.27472">Single-node</tspan><tspan
+             id="tspan129"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="549.06573"
+             y="726.58856">OpenShift DU</tspan></text>
+        <text
+           id="text132"
+           xml:space="preserve"
+           transform="matrix(1.1927457,0,0,1.1926927,-7.1849508,595.95276)"
+           clip-path="url(#clipPath134)"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.11789"><tspan
+             id="tspan133"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11789"
+             x="0"
+             y="0">Network</tspan><tspan
+             id="tspan134"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11789"
+             x="0"
+             y="12.001">far edge</tspan></text>
+        <path
+           id="path135"
+           d="m 52.723231,606.80286 20.319598,19.32879"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text138"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="29.193678"
+           y="200.58073"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan138"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="29.193678"
+             y="200.58073">Hub cluster</tspan><tspan
+             id="tspan139"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="29.193678"
+             y="33.603657">GitOps</tspan></text>
+        <path
+           id="path143"
+           d="m 478.2625,321.91889 h -1.78908"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path144"
+           d="M 472.90271,321.91889 H 153.3196"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.992, 3.992;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path145"
+           d="m 151.53468,321.91889 h -1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path146"
+           d="m 580.24233,459.07855 h 1.78906"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path147"
+           d="M 585.58917,459.07855 H 683.4253"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.97733, 3.97733;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path148"
+           d="m 685.20387,459.07855 h 1.78909 v -1.78905"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path149"
+           d="M 686.99296,453.67923 V 325.51366"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.036, 4.036;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path150"
+           d="m 686.99296,323.70792 v -1.78904 h -1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path151"
+           d="M 682.34129,321.91889 H 672.32226"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.2, 3.2;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path152"
+           d="m 670.8909,321.91889 h -1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path153"
+           d="m 149.71512,459.07855 h 1.78908"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path154"
+           d="M 155.10276,459.07855 H 563.53343"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.02267, 4.02267;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path155"
+           d="m 565.33238,459.07855 h 1.78908"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path156"
+           d="m 136.62473,321.91889 h -1.78907"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path157"
+           d="M 131.27502,321.91889 H 33.359002"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.98, 3.98;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path158"
+           d="m 31.579349,321.91889 h -1.78908 v 1.78904"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path159"
+           d="M 29.790158,327.31821 V 455.48379"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.036, 4.036;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path160"
+           d="m 29.790158,457.28952 v 1.78904 h 1.789079"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path161"
+           d="M 35.137997,459.07855 H 133.00044"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.97867, 3.97867;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           id="path162"
+           d="m 134.77964,459.07855 h 1.78909"
+           style="fill:none;stroke:#adadad;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path163"
+           d="m 573.68221,101.27082 v 26.83561"
+           style="fill:none;stroke:#e8e8e8;stroke-width:10.6667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path164"
+           d="m 143.10098,101.27082 v 26.83561"
+           style="fill:none;stroke:#e8e8e8;stroke-width:10.6667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path165"
+           d="M 143.1571,584.25561 143.04505,441.18852"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path166"
+           d="M 163.75693,511.74772 H 122.44505 V 493.6975 h 41.31188 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text166"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="125.9968"
+           y="506.56561"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan166"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="125.9968"
+             y="506.56561">Install</tspan></text>
+        <path
+           id="path167"
+           d="m 163.75693,563.73123 h -41.31188 v -32.86822 h 41.31188 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text167"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="97.197556"
+           y="543.98486"
+           transform="scale(1.0000221,0.99997789)"><tspan
+             id="tspan167"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="97.197556"
+             y="543.98486">IPv4 or IPv6</tspan><tspan
+             id="tspan168"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="43.405899"
+             y="558.29852">single or dual stack networking</tspan></text>
+        <path
+           id="path168"
+           d="M 573.68221,584.25561 V 441.18852"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path169"
+           d="M 47.681391,441.188 H 238.52061 V 381.55335 H 47.681391 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text169"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="93.617508"
+           y="415.21075"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan169"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="93.617508"
+             y="415.21075">Assisted service</tspan></text>
+        <path
+           id="path170"
+           d="M 478.2625,441.188 H 669.10181 V 381.55335 H 478.2625 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text170"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:75.7014;display:inline;stroke-width:1.06384"
+           x="460.13947"
+           y="410.43152"
+           transform="matrix(1.2533538,0,0,1.2532983,-46.466978,-108.22497)"><tspan
+             x="460.13947"
+             y="410.43152"
+             id="tspan18"><tspan
+   style="fill:#151515"
+   id="tspan9">Policy-based</tspan>
+</tspan><tspan
+             x="460.13947"
+             y="424.70614"
+             id="tspan20"><tspan
+               style="fill:#151515"
+               id="tspan19">governance</tspan></tspan></text>
+        <path
+           id="path171"
+           d="M 143.04477,370.01279 V 268.24746 h 210.84647 v -17.89039"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path172"
+           d="m 148.99223,368.27265 -5.94703,10.2989 -5.9482,-10.2989 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path173"
+           d="M 573.68199,280.56083 V 268.24746 H 371.78236 v -17.89039"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path174"
+           d="m 579.62933,278.82069 -5.94699,10.2989 -5.94822,-10.2989 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path175"
+           d="m 144.01087,107.11799 v 44.84168 h 205.584 v 27.22202"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path176"
+           d="m 343.64788,177.44179 5.94699,10.29891 5.94824,-10.29891 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path177"
+           d="m 573.68199,107.11799 v 44.84168 H 367.4861 v 27.22202"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path178"
+           d="m 361.53899,177.44179 5.94701,10.29891 5.94822,-10.29891 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path179"
+           d="M 262.97194,250.35714 H 453.81126 V 190.72249 H 262.97194 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path180"
+           d="m 573.68221,351.74039 v 18.27682"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path181"
+           d="m 567.73488,368.2767 5.94699,10.29892 5.94825,-10.29892 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path182"
+           d="m 358.39155,745.40142 v 18.27682"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path183"
+           d="m 352.4442,761.93785 5.94701,10.29891 5.94823,-10.29891 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path184"
+           d="m 124.61344,745.40142 v 18.27682"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path185"
+           d="m 118.6661,761.93785 5.94702,10.29891 5.94821,-10.29891 z"
+           style="fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <path
+           id="path186"
+           d="M 47.681391,107.234 H 238.52061 V 47.599349 H 47.681391 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text186"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:120.375;display:inline;stroke-width:1.06384"
+           x="170.31743"
+           y="143.81438"
+           transform="matrix(1.2533538,0,0,1.2532983,-145.8044,-107.53732)"><tspan
+             x="170.31743"
+             y="143.81438"
+             id="tspan37"><tspan
+               style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;text-anchor:middle;fill:#151515"
+               id="tspan22">SiteConfig CRs </tspan><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan36">
+</tspan></tspan><tspan
+             x="170.31743"
+             y="158.265"
+             id="tspan39"><tspan
+               style="font-weight:500;font-family:Sans;-inkscape-font-specification:'Sans, Medium';text-align:center;text-anchor:middle;fill:#151515"
+               id="tspan38">(site installation data)</tspan></tspan></text>
+        <text
+           id="text186-0-7"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:120.375;display:inline;stroke-width:1.06384"
+           x="170.31743"
+           y="143.81438"
+           transform="matrix(1.2533538,0,0,1.2532983,-184.56283,76.479882)"
+           inkscape:transform-center-x="306.35759"
+           inkscape:transform-center-y="1.2010803e-05"><tspan
+             x="170.31743"
+             y="143.81438"
+             id="tspan41"><tspan
+               style="font-weight:500;font-family:Sans;-inkscape-font-specification:'Sans, Medium'"
+               id="tspan40">Advanced
+</tspan></tspan><tspan
+             x="170.31743"
+             y="158.265"
+             id="tspan43"><tspan
+               style="font-weight:500;font-family:Sans;-inkscape-font-specification:'Sans, Medium'"
+               id="tspan42">Cluster
+</tspan></tspan><tspan
+             x="170.31743"
+             y="172.71562"
+             id="tspan45"><tspan
+               style="font-weight:500;font-family:Sans;-inkscape-font-specification:'Sans, Medium'"
+               id="tspan44">Management</tspan></tspan></text>
+        <text
+           id="text186-4"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:120.375;display:inline;stroke-width:1.06384"
+           x="213.09561"
+           y="143.81438"
+           transform="matrix(1.2533538,0,0,1.2532983,15.563333,34.963226)"><tspan
+             x="213.09561"
+             y="143.81438"
+             id="tspan47"><tspan
+               style="font-weight:500;font-family:Sans;-inkscape-font-specification:'Sans, Medium';text-align:center;text-anchor:middle"
+               id="tspan46">Red Hat 
+</tspan></tspan><tspan
+             x="213.09561"
+             y="158.265"
+             id="tspan49"><tspan
+               style="font-weight:500;font-family:Sans;-inkscape-font-specification:'Sans, Medium';text-align:center;text-anchor:middle"
+               id="tspan48">GitOps Operator</tspan></tspan></text>
+        <path
+           id="path187"
+           d="M 598.23844,511.74772 H 549.12589 V 493.6975 h 49.11255 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text187"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="552.88123"
+           y="506.56561"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             id="tspan188"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
+             x="552.88123"
+             y="506.56561">Deploy</tspan></text>
+        <path
+           id="path188"
+           d="M 478.2625,351.73604 H 669.10181 V 292.1014 H 478.2625 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text188"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.4197px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:99.2212;display:inline;stroke-width:1.06384"
+           x="501.1759"
+           y="338.90219"
+           transform="matrix(1.2533538,0,0,1.2532983,-117.08427,-108.06511)"><tspan
+             x="501.1759"
+             y="338.90219"
+             id="tspan52"><tspan
+               style="font-weight:500;-inkscape-font-specification:'Red Hat Text, Medium';text-align:center;text-anchor:middle;fill:#151515"
+               id="tspan50">Topology Aware</tspan><tspan
+               style="text-align:center;text-anchor:middle"
+               id="tspan51">
+</tspan></tspan><tspan
+             x="501.1759"
+             y="353.17681"
+             id="tspan54"><tspan
+               style="font-weight:500;-inkscape-font-specification:'Red Hat Text, Medium';text-align:center;text-anchor:middle;fill:#151515"
+               id="tspan53">Lifecycle Manager</tspan></tspan></text>
+        <path
+           id="path193"
+           d="m 88.403327,302.19784 20.319603,19.32877"
+           style="fill:none;stroke:#151515;stroke-width:1.33333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path194"
+           d="M 478.2625,107.234 H 669.10181 V 47.599349 H 478.2625 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" />
+        <text
+           id="text194"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3126px;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"
+           x="573.29724"
+           y="72.084"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             sodipodi:role="line"
+             id="tspan12"
+             x="573.29724"
+             y="72.084"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3126px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:1.33333">PolicyGenerator CRs</tspan><tspan
+             sodipodi:role="line"
+             id="tspan13"
+             x="573.29724"
+             y="90.195335"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3126px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.33333"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.3126px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:1.33333"
+   id="tspan14">(cluster profile</tspan>)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;line-height:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:1;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           x="124.76096"
+           y="719.41382"
+           id="text26"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             sodipodi:role="line"
+             id="tspan26"
+             x="124.76096"
+             y="719.41382"
+             style="stroke-width:1.33333">Supervisor node</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.3126px;line-height:normal;font-family:'Red Hat Text';-inkscape-font-specification:'Red Hat Text, Medium';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:1;vector-effect:none;fill:#151515;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           x="358.27631"
+           y="808.73895"
+           id="text27"
+           transform="scale(1.0000221,0.99997787)"><tspan
+             sodipodi:role="line"
+             id="tspan27"
+             x="358.27631"
+             y="808.73895"
+             style="stroke-width:1.33333">DU worker node (x1)</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
